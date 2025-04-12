@@ -62,13 +62,5 @@ The heatmap colors are based on the highest-rated problem solved on a given day.
 ### Hover Feature
 ![image](https://github.com/user-attachments/assets/ba2c802e-870a-4ec8-af33-34cfc9a37459)
 
-## 📌 Future Improvements
-
-- Show different intensity based on weighted average of problem rating solved in a day.
-- Add dark mode
-
-## 🙌 Contributions
-
-Feel free to contribute by improving UI, adding features. Fork the repo and submit a pull request!
 
 
